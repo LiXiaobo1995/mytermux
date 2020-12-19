@@ -1,7 +1,7 @@
 # **自用termux资源**
 ---
 
-## ***clash使用***
+## ***一. clash使用***
 
 ```
 // 1.安装clash服务
@@ -16,7 +16,7 @@
 ```
 ---
 
-## ***package-subconverter***
+## ***二. package-subconverter***
 
 termux编译的subconverter，用作clash订阅链接规则转换
 
