@@ -28,5 +28,5 @@ pref.ini为配置文件，用的是acl4ssr的online规则，也可以自己参�
 nohup ./subconverter >> subconverter.out &    //后台运行，日志输出到subconverter.out
 ```
 
-然后根据使用说明获取你的订阅链接，使用软件或者termux的clash订阅代理
+然后根据使用方法获取你的订阅链接，使用软件或者termux的clash订阅代理
 
